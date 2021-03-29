@@ -1,0 +1,11 @@
+Clinte nuevo 
+Marimel SuarezPin =1231
+
+Clientes registrados = 
+
+Nombre 
+
+Marco Santo, Pin 1221, Numero de cuenta =1222, Balance = 2000
+Marimel Suarez, Pin 1231, Numero de cuenta =1212, Balance = 2000
+Jose Mendez, pin 1232, Numero de cuenta =1233, Balance = 2000 
+Germán Hernandez , pin 1243, Numero de cuenta =1126, Balance 2000
